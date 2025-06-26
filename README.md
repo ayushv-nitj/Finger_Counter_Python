@@ -3,6 +3,8 @@
 A real-time finger counting project using Python, OpenCV, and MediaPipe. This application detects hand landmarks via webcam and accurately counts the number of fingers raised. Perfect for beginners to explore gesture recognition and computer vision.
 
 ---
+[![Watch the video](2_readme.png)]([https://youtu.be/your-video-id](https://youtu.be/kSUgJHKO4Xs))
+
 
 ## 📌 Features
 
