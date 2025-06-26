@@ -6,9 +6,9 @@ A real-time finger counting project using Python, OpenCV, and MediaPipe. This ap
 
 ## 🎥 Demo Video
 
-[Watch the Demo Video]((https://youtu.be/kSUgJHKO4Xs))
+[Watch the Demo Video]([(https://youtu.be/kSUgJHKO4Xs)](https://youtu.be/kSUgJHKO4Xs?si=wPgQy6_nHHVHobbJ))
 
-[![Watch the video](2_readme.png)](https://youtu.be/your-video-id)
+[![Watch the video](2_readme.png)]([https://youtu.be/your-video-id](https://youtu.be/kSUgJHKO4Xs?si=wPgQy6_nHHVHobbJ))
 
 
 
